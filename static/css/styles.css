@@ -16,5 +16,17 @@ p{
 }
 
 .inline{
-    display: inline-block;
+    display: block;
+}
+.d-flex{
+    gap: 2%;
+}
+
+.dropdown{
+    margin-left: -50px;
+}
+.flex{
+    margin-left: 1%;
+    display: flex;
+    justify-content: space-between;
 }
