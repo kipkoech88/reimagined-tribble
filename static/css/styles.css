@@ -10,3 +10,11 @@ p{
     margin-left: 20%;
     margin-right: 20%;
 }
+
+.bit{
+    margin-left: 30px;
+}
+
+.inline{
+    display: inline-block;
+}
