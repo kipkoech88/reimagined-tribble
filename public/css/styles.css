@@ -37,3 +37,6 @@ p{
 .down{
     margin-top: 10%;
 }
+.card-text{
+    justify-self: unset;
+}
