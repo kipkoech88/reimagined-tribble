@@ -1,0 +1,12 @@
+.center{
+    text-align: center;
+}
+.carousel-inner > .carousel-item > img {
+    height: 40%;
+    width: auto;
+  }
+
+p{
+    margin-left: 20%;
+    margin-right: 20%;
+}
