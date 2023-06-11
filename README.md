@@ -2,6 +2,7 @@
 # Careers website by Me. No replit
 
 This is a Tech related job websites where users can find latest job openings in tech. The user can sigup, login, logout, view job postings and apply for jobs. 
+Here is a live demo of the website : [Heroic Child](https://heroicchild-careers.onrender.com/)
 
 # Technologies
 The backend of this website is build with expressJs, NodeJs, MongoDB database, while the frontend is made with our lovely ejs and Bootstrap.
